@@ -1,0 +1,19 @@
+{
+  "name": "n-zepto",
+  "version": "1.2.0",
+  "author": "华续",
+  "description": "Zepto for npm loader.",
+  "main": "n-zepto.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yolo2013/n-zepto.git"
+  },
+  "keywords": [
+    "Zepto",
+    "npm"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yolo2013/n-zepto/issues"
+  }
+}
