@@ -16,3 +16,4 @@ Based Zepto 1.2.0(The latest version)
 
 ##Links
 http://zeptojs.com/
+https://www.npmjs.com/package/n-zepto
